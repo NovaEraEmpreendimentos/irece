@@ -210,7 +210,7 @@ function generatePrintContent() {
         
         <div class="print-contact">
             <p><i class="fas fa-phone"></i> Contato: (74) 99975-9815 (74) 99942-5460</p>
-            <p><i class="fas fa-envelope"></i> E-mail: novaerasolucoes.ba@gmail.com</p>
+            <p><i class="fas fa-envelope"></i> E-mail: novaerasolucoes.irece@gmail.com</p>
             <p><i class="fab fa-instagram"></i> Instagram:@novaera_solucoes_irece</p>
             <p><i class="fas fa-map-marker-alt"></i> Endereço: Avenida Tertuliano Cambuí, 388</p>
             <p>Irecê - BA</p>
